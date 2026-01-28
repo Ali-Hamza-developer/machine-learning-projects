@@ -20,7 +20,8 @@ Each folder in this repository represents an individual project and contains:
 
 ## 📌 Current Projects
 
-- Project 01: Sonar Rock vs Mine Classification  
+- Project 01: Sonar Rock vs Mine Classification
+- Project 02: Diabetese Prediction
 
 *(More projects will be added soon...)*  
 
