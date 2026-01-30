@@ -32,7 +32,9 @@ This project builds a regression model to estimate house prices based on key fea
 
 ---
 
-## **SVG Diagram:**
+## 🖼️ System Architecture
+
+![House Price Prediction](House Price Prediction.svg)
 
 
 
