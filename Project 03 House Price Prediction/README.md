@@ -32,9 +32,11 @@ This project builds a regression model to estimate house prices based on key fea
 
 ---
 
+
 ## 🖼️ System Architecture
 
-![House Price Prediction](House Price Prediction.svg)
+![House Price Prediction](House%20Price%20Prediction.svg)
+
 
 
 
@@ -43,8 +45,14 @@ This project builds a regression model to estimate house prices based on key fea
 
 ## ✍️ Author
 
-**Ali Hamza**
+**Ali Hamza**  
+**Computer Science Student**
+
 
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
+
+
+
+
