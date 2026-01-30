@@ -22,6 +22,7 @@ Each folder in this repository represents an individual project and contains:
 
 - Project 01: Sonar Rock vs Mine Classification
 - Project 02: Diabetese Prediction
+- Project 03 House Price Prediction
 
 *(More projects will be added soon...)*  
 
