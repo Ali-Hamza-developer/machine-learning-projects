@@ -23,7 +23,7 @@ Each folder in this repository represents an individual project and contains:
 - Project 01: Sonar Rock vs Mine Classification
 - Project 02: Diabetese Prediction
 - Project 03 House Price Prediction
-- Project 5 Fake News Prediction
+- Project 04 Fake News Prediction
 
 ---
 
