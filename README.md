@@ -23,8 +23,7 @@ Each folder in this repository represents an individual project and contains:
 - Project 01: Sonar Rock vs Mine Classification
 - Project 02: Diabetese Prediction
 - Project 03 House Price Prediction
-
-*(More projects will be added soon...)*  
+- Project 5 Fake News Prediction
 
 ---
 
@@ -39,17 +38,6 @@ Each folder in this repository represents an individual project and contains:
 
 ---
 
-## 🚀 Future Work
-
-This repository will be continuously updated with more machine learning projects, including:
-- Regression models  
-- Classification systems  
-- Data analysis projects  
-- Applied machine learning use-cases  
-
-Stay tuned for upcoming projects and improvements.
-
----
 
 ## 👤 Author
 
