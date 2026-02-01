@@ -1,6 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
-![Project Preview](Credit Card Fraud Detection.svg)
+![Project Preview](Credit%20Card%20Fraud%20Detection.svg)
+
 
 ## 📌 Overview
 
