@@ -1,4 +1,3 @@
-# 💳 Credit Card Fraud Detection
 
 ![Project Preview](Credit%20Card%20Fraud%20Detection.svg)
 
@@ -28,4 +27,4 @@ A machine learning project to detect **fraudulent credit card transactions** usi
 **Ali Hamza**
 Computer Science Student
 
-⭐ *More updates coming soon. Stay tuned!*
+
