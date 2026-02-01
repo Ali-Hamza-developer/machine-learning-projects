@@ -24,6 +24,7 @@ Each folder in this repository represents an individual project and contains:
 - Project 02: Diabetese Prediction
 - Project 03 House Price Prediction
 - Project 04 Fake News Prediction
+- Project 05 Credit Card Fraud Detection
 
 ---
 
