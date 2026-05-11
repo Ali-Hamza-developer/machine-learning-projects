@@ -44,4 +44,4 @@ Each folder in this repository represents an individual project and contains:
 
 Ali Hamza  
 Computer Science Student  
-Aspiring Data Scientist / Machine Learning Engineer  
+Data Scientist / Machine Learning Engineer  
