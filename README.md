@@ -3,7 +3,6 @@
 Welcome to my Machine Learning Projects repository.  
 This repository contains a growing collection of machine learning and data science projects implemented using Python.
 
-The purpose of this repository is to practice machine learning concepts build real-world predictive models, and maintain a professional project portfolio for academic and career development.
 
 ---
 
